@@ -1,0 +1,16 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pymongo==4.4.0
+python-dotenv==1.0.0
+passlib==1.7.4
+transformers==4.37.0
+torch==2.2.0
+nltk==3.8.1
+requests==2.31.0
+numpy<2
+pandas
+scikit-learn
+xgboost
+joblib
+google-generativeai
+tensorflow
